@@ -14,4 +14,6 @@
 	- [Assignment 3-c](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment3c.htm)
 	- [Assignment 3-d](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment3d.htm)
 	- [Assignment 3-e](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment3e.htm)
-- [Assignment 4](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment4.htm)
+- Assignment 4
+	- [Assignment 4-a](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment4a.htm)
+	- [Assignment 4-b](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment4b.htm)
