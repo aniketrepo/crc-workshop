@@ -1,6 +1,6 @@
 
 # HTML
-[cheatsheet]()
+[cheatsheet](https://github.com/aniketrepo/crc-workshop/blob/main/html/HTML%20Cheat%20Sheet.md)
 - [Assignment 1](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment1.htm)
 - [Assignment 2](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment2.htm)
 	- [Assignment 2-a](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment2a.htm)
