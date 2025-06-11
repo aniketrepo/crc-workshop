@@ -1,6 +1,6 @@
 
 # HTML
-[cheatsheet](https://github.com/aniketrepo/crc-workshop/blob/main/HTML%20Cheat%20Sheet.md)
+[cheatsheet]()
 - [Assignment 1](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment1.htm)
 - [Assignment 2](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment2.htm)
 	- [Assignment 2-a](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment2a.htm)
@@ -17,3 +17,4 @@
 - Assignment 4
 	- [Assignment 4-a](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment4a.htm)
 	- [Assignment 4-b](https://github.com/aniketrepo/crc-workshop/blob/main/html/code/Assignment4b.htm)
+
